@@ -29,5 +29,12 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="wcamposs's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wcamposs&show_icons=true&hide_border=true" />
+
+</details>
+
 [instagram]: https://instagram.com/will.camposs
 [linkedin]: https://linkedin.com/in/willian-camposs
