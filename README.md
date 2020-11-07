@@ -1,6 +1,6 @@
 ### Hello, I'm Willian - aka [wcamposs] 👋
 
-## I'm a student and Developer!
+## I'm a Mobile and Web Developer!
 
 - 🌱 I’m currently learning everything that I can
 - 🥅 2020 Goals: Improve my skills with frontend development
