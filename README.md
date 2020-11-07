@@ -34,6 +34,8 @@
 
   <img align="left" alt="wcamposs's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wcamposs&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcamposs)](https://github.com/wcamposs/github-readme-stats)
+
 </details>
 
 [instagram]: https://instagram.com/will.camposs
