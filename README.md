@@ -3,7 +3,7 @@
 ## I'm a Mobile and Web Developer!
 
 - 🌱 I’m currently learning everything that I can
-- 🥅 2020 Goals: Improve my skills with frontend development
+- 🥅 Actual Goals: Improve my skills with frontend development
 - ⚡ Fun fact: I love to play guitar and play videogames
 
 ### Connect with me:
